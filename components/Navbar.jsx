@@ -8,7 +8,7 @@ import { BrowserRouter as Routes, Link } from 'react-router-dom';
 
 
 function BasicExample() {
-    return (
+    return ( 
         <Routes>
         <Navbar expand="lg" className="bg-body-tertiary">
             <Container>
